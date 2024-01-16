@@ -8,15 +8,11 @@
 *.json
 *.ndjson
 *.png
+!/assets/*.png
 *.jpg
 *.xyz
-# 忽略数据文件夹
-# /data
 /output_3D
-# /xyz_dataset
 /evaluation
 /log
-# /2dto3d_results
-# /3d_data
 /records
 /.vscode
